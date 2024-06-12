@@ -1,4 +1,4 @@
-# Hi I'm kktutori
+# Hi I'm kkutori
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kktutori/kktutori/output/github-snake-dark.svg">
